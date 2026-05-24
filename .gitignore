@@ -1,0 +1,21 @@
+# Arduino/ESP32 编译输出
+build/
+*.bin
+*.elf
+*.hex
+
+# IDE
+.vscode/
+*.code-workspace
+
+# SU03T 烧录工具（二进制，不入库）
+SU03T/02、模块烧录软件/
+
+# 压缩包
+*.rar
+*.zip
+*.7z
+
+# 临时文件
+*.bak
+*.tmp
